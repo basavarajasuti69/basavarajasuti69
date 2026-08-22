@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+AI+Engineer;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Asuti+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+AI+Engineer;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,7 +38,9 @@ I currently work as a **Data Analyst Intern at AI Variant**, and previously comp
 - Ship a working dashboard, not just a notebook
 - Every project should answer a real business question
 
-**Open To:** Data Analyst · Business Intelligence Analyst · Data Engineer (entry-level)
+**Open To:** Data Analyst · Business Intelligence Analyst · Data Engineer (entry-level) · Reporting Analyst · Analytics Associate
+
+**Career Growth Path:** Data Analyst → Senior Data Analyst / Analytics Engineer → AI Engineer — building toward AI/ML systems work through hands-on analytics, SQL depth, and cloud-based data pipelines.
 
 ---
 
@@ -137,20 +139,37 @@ Built a MySQL star schema on a 130,000+ row hospitality dataset (134,590 booking
 
 ```yaml
 learning:
-  - AWS fundamentals (S3, Lambda/Glue, RDS)
-  - Advanced SQL patterns for interview rounds
+  - AWS fundamentals (S3, Lambda/Glue, RDS) for cloud-based data pipelines
+  - dbt + Airflow — orchestration for the AI job market portfolio project
+  - Advanced SQL patterns (window functions, query optimization) for interviews
+  - Microsoft PL-300 (Power BI Data Analyst) certification
+  - Google Data Analytics Professional Certificate
+
+developing:
+  - Deeper Python for ML — moving from applied Scikit-learn to model tuning & evaluation
+  - Data engineering fundamentals — ETL orchestration, pipeline design, star schemas at scale
+  - System-level thinking for AI Engineering — how models get deployed, not just trained
 
 building:
-  - Portfolio project on AI job market trends using survey data
+  - Portfolio capstone: AI job market trends using Stack Overflow Developer Survey 2025 data,
+    architected on AWS (S3, Lambda/Glue, RDS, dbt, Airflow) with a Scikit-learn model
+    and a Streamlit/FastAPI app
   - Portfolio polish across GitHub repos (READMEs, deployed dashboards)
 
 applying:
   - Entry-level Data Analyst roles across Bengaluru, Hyderabad, Pune
 
+career_growth:
+  short_term: Land an entry-level Data Analyst / BI Analyst role
+  mid_term: Build depth in data engineering and cloud pipelines on the job
+  long_term: Transition into AI Engineering — model deployment, MLOps, applied ML systems
+
 open_to:
   role_types:
     - Data Analyst
     - Business Intelligence Analyst
+    - Reporting Analyst
+    - Analytics Associate
     - Data Engineer (entry-level)
   location: Bengaluru (on-site/hybrid) | Open to Hyderabad, Pune
   notice_period: Immediate
