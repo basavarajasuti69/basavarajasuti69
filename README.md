@@ -1,28 +1,21 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Asuti+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+AI+Engineer;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Asuti+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+AI+Engineer;Turning+Data+Into+Decisions)](#--)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E-Electronics_%26_Communication-8A63D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-7.2-8A63D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graduated-2026-8A63D2?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Hubli,_Karnataka-333333?style=for-the-badge" />
-</p>
+[![](https://img.shields.io/badge/B.E-Electronics_%26_Communication-8A63D2?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/CGPA-7.2-8A63D2?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Graduated-2026-8A63D2?style=for-the-badge)](#)
 
-<p align="center">
-  <a href="https://basavarajasuti0-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visit-8A63D2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/basavarajasuti"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:basavarajasuti0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![](https://img.shields.io/badge/📍-Hubli,_Karnataka-333333?style=for-the-badge)](#)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basavarajasuti69&label=Profile%20Views&color=8A63D2&style=flat" />
-  <img src="https://img.shields.io/github/followers/basavarajasuti69?label=Followers&style=flat&color=8A63D2" />
-  <img src="https://img.shields.io/github/stars/basavarajasuti69?label=Stars&style=flat&color=8A63D2" />
-</p>
+[![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basavarajasuti)
+[![](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavarajasuti0@gmail.com)
+
+[![](https://komarev.com/ghpvc/?username=basavarajasuti69&label=Profile%20Views&color=8A63D2&style=flat)](#)
+[![](https://img.shields.io/github/followers/basavarajasuti69?label=Followers&style=flat&color=8A63D2)](https://github.com/basavarajasuti69?tab=followers)
+[![](https://img.shields.io/github/stars/basavarajasuti69?label=Stars&style=flat&color=8A63D2)](https://github.com/basavarajasuti69?tab=repositories)
+
+</div>
 
 ---
 
@@ -47,33 +40,29 @@ I currently work as a **Data Analyst Intern at AI Variant**, and previously comp
 ### ◈ Tech Stack
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **BI & Visualization**
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **Databases & Cloud**
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Tooling & Workflow**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-8A63D2?style=flat-square" />
-</p>
+
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/ETL-8A63D2?style=flat-square)
 
 **Core Skills:** Data Cleaning · Statistical Analysis · Dashboarding · Problem Solving · Stakeholder Management
 
@@ -94,7 +83,7 @@ I currently work as a **Data Analyst Intern at AI Variant**, and previously comp
 
 ### ◈ Featured Projects
 
-**⬡ [High Clouds Airlines](https://github.com/basavarajasuti69) — SQL, Power BI, MySQL Workbench** · *July 2026*
+**⬡ [High Clouds Airlines](https://github.com/basavarajasuti69/High-Clouds-Airlines) — SQL, Power BI, MySQL Workbench** · *July 2026*
 Analyzed BTS T-100 domestic airline operational data (2008–2013, 110,851 rows) to evaluate load factor, route performance, and carrier efficiency. Built advanced SQL queries using joins, CTEs, aggregations, and window functions, backed by an interactive Power BI dashboard visualizing KPIs across carriers, airports, and time periods.
 
 **⬡ [IPL Sports Analytics](https://github.com/basavarajasuti69/IPL-Sports-Analytics) — Python, Scikit-learn, XGBoost, K-Means, Power BI** · *May 2026*
@@ -125,13 +114,11 @@ Built a MySQL star schema on a 130,000+ row hospitality dataset (134,590 booking
 
 ### ◈ Certifications
 
-<p>
-<img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/NASSCOM-FutureSkills_Prime_(Gold)-8A63D2?style=flat-square" />
-<img src="https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Infosys_Springboard-Python_for_Beginners-0072B1?style=flat-square" />
-<img src="https://img.shields.io/badge/ExcelR-Data_Analyst-333333?style=flat-square" />
-</p>
+![](https://img.shields.io/badge/HackerRank-SQL_(Advanced)-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![](https://img.shields.io/badge/NASSCOM-FutureSkills_Prime_(Gold)-8A63D2?style=flat-square)
+![](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Infosys_Springboard-Python_for_Beginners-0072B1?style=flat-square)
+![](https://img.shields.io/badge/ExcelR-Data_Analyst-333333?style=flat-square)
 
 ---
 
@@ -179,22 +166,16 @@ open_to:
 
 ### ◈ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basavarajasuti69&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=basavarajasuti69&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basavarajasuti69&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=basavarajasuti69&theme=tokyonight&hide_border=true)
 
 ---
 
 ### ◈ Connect
 
-<p align="center">
-  <a href="mailto:basavarajasuti0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/basavarajasuti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/basavarajasuti69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavarajasuti0@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basavarajasuti)
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basavarajasuti69)
 
-<p align="center"><i>"Good data analysis isn't about the fanciest model — it's about answering the question that actually matters."</i></p>
+*"Good data analysis isn't about the fanciest model — it's about answering the question that actually matters."*
