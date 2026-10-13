@@ -1,10 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4776E6,50:8A63D2,100:00C9FF&text=Basavaraj%20Asuti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20%26%20Intelligence&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated gradient header"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=40&pause=1000&color=4776E6&center=true&vCenter=true&width=600&height=80&lines=Basavaraj+Asuti"
+    alt="Basavaraj Asuti"
+  />
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=650&height=55&lines=Building+Intelligent+Applications;Exploring+Generative+AI+and+LLMs;Learning+Agentic+AI+and+RAG;Turning+Data+Into+Insights;From+Analytics+to+AI+Engineering" alt="Animated typing introduction"/>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=650&height=100&lines=Aspiring+AI+Engineer;Exploring+Generative+AI+and+LLMs;Learning+Agentic+AI+and+RAG;Turning+Data+Into+Insights"
+    alt="Animated introduction"
+  />
+</div>
 
 <br/><br/>
 
