@@ -1,20 +1,10 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=40&pause=1000&color=4776E6&center=true&vCenter=true&width=600&height=80&lines=Basavaraj+Asuti"
-    alt="Basavaraj Asuti"
-  />
-</div>
+
+<h1>👋 Hi, I'm Basavaraj Asuti</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=8A63D2&center=true&vCenter=true&width=650&height=100&lines=Aspiring+AI+Engineer;Building+Intelligent+Applications;Exploring+Generative+AI+%26+LLMs;Learning+Agentic+AI+%26+RAG;Turning+Data+Into+Insights" alt="Animated introduction"/>
 
 <br/>
-
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=650&height=100&lines=Aspiring+AI+Engineer;Exploring+Generative+AI+and+LLMs;Learning+Agentic+AI+and+RAG;Turning+Data+Into+Insights"
-    alt="Animated introduction"
-  />
-</div>
-
-<br/><br/>
 
 <a href="https://basavarajasuti.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A63D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -26,10 +16,9 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
