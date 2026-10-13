@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4776E6,50:8A63D2,100:00C9FF&text=Basavaraj%20Asuti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20%26%20Intelligence&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated gradient header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=4776E6&text=Basavaraj%20Asuti&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Animated gradient header"/>
+type=waving&height=220&color=0:4776E6,50:8A63D2,100:00C9FF&text=Basavaraj%20Asuti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20%26%20Intelligence&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated gradient header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=650&height=55&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Learning+Agentic+AI+%26+RAG+%E2%9A%A1;Turning+Data+Into+Insights+%F0%9F%93%8A;From+Analytics+to+AI+Engineering+%F0%9F%9A%80" alt="Animated typing introduction"/>
@@ -20,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=basavarajasuti69&style=for-the-badge&color=8A63D2" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=basavarajasuti69&style=flat-square&color=8A63D2" alt="Profile views"/>
 
 </div>
 
