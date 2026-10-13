@@ -1,181 +1,283 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Asuti+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+AI+Engineer;Turning+Data+Into+Decisions)](#--)
+<!-- ═══════════════════ HERO SECTION ═══════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4776E6,50:8A63D2,100:00C9FF&text=Basavaraj%20Asuti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20%26%20Intelligence&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated gradient header"/>
+<br/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=650&height=55&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Learning+Agentic+AI+%26+RAG+%E2%9A%A1;Turning+Data+Into+Actionable+Insights+%F0%9F%93%8A;From+Analytics+to+AI+Engineering+%F0%9F%9A%80" alt="Animated typing introduction"/>
+</a>
+<br/>
+<a href="https://basavarajasuti.lovable.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-8A63D2?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/basavarajasuti">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:basavarajasuti0@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+
+⸻
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+01   About Me
+
+class BasavarajAsuti:
+    def __init__(self):
+        self.role = "Aspiring AI Engineer"
+        self.background = "Electronics & Communication Engineering"
+        self.current_focus = [
+            "Generative AI",
+            "Large Language Models",
+            "Agentic AI",
+            "Machine Learning",
+            "Data Engineering"
+        ]
+        self.foundation = [
+            "Python", "SQL", "Power BI",
+            "Tableau", "Machine Learning"
+        ]
+        self.goal = "Build AI that solves real-world problems"
+    def say_hello(self):
+        return "Turning curiosity into code. 🚀"
+me = BasavarajAsuti()
+print(me.say_hello())
+
+I’m an Aspiring AI Engineer with hands-on experience in Data Analytics, SQL, Python, Machine Learning, and Business Intelligence.
+
+My journey began with transforming raw datasets into meaningful business insights. Now, I’m expanding into Generative AI, LLMs, RAG, and Agentic AI to build intelligent applications that go beyond traditional analytics.
+
+I enjoy working across the data lifecycle—from data cleaning and SQL transformations to predictive modeling, dashboards, and AI-powered solutions.
+
+* 🤖 Exploring AI engineering and LLM application development.
+* 🧠 Learning how RAG and AI agents can solve practical problems.
+* 📊 Building analytics and machine learning projects.
+* ⚙️ Strengthening data engineering and cloud fundamentals.
+* 🎯 Open to entry-level AI, Data Analytics, and Data Engineering opportunities.
+
+My mission: Turn data into intelligence and intelligence into useful applications.
+
+⸻
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+02   My Technology Universe
 
 <div align="center">
 
-[![](https://img.shields.io/badge/B.E-Electronics_%26_Communication-8A63D2?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/CGPA-7.2-8A63D2?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Graduated-2026-8A63D2?style=for-the-badge)](#)
+🧠 AI • Generative AI • Machine Learning
 
-[![](https://img.shields.io/badge/📍-Hubli,_Karnataka-333333?style=for-the-badge)](#)
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=light" alt="AI and machine learning technologies"/>
+<br/>
+<img src="https://img.shields.io/badge/Generative_AI-8A63D2?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-4776E6?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic_AI-E76F51?style=for-the-badge" alt="Agentic AI"/>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basavarajasuti)
-[![](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavarajasuti0@gmail.com)
+💻 Programming & Data
 
-[![](https://komarev.com/ghpvc/?username=basavarajasuti69&label=Profile%20Views&color=8A63D2&style=flat)](#)
-[![](https://img.shields.io/github/followers/basavarajasuti69?label=Followers&style=flat&color=8A63D2)](https://github.com/basavarajasuti69?tab=followers)
-[![](https://img.shields.io/github/stars/basavarajasuti69?label=Stars&style=flat&color=8A63D2)](https://github.com/basavarajasuti69?tab=repositories)
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=light" alt="Programming and data tools"/>
+
+📊 Analytics & Business Intelligence
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+☁️ Cloud & Development
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,fastapi,flask,streamlit&theme=light" alt="Cloud and development tools"/>
+</div>
+<details>
+<summary><b>⚡ Explore my technical skill set</b></summary>
+
+Category	Skills
+Programming	Python, SQL, Java, C, C++
+Data Analysis	Pandas, NumPy, EDA, Statistical Analysis
+Machine Learning	Scikit-learn, XGBoost, Random Forest, K-Means, Isolation Forest
+BI & Visualization	Power BI, DAX, Power Query, Tableau, Excel
+Databases	MySQL, PostgreSQL, SQLite
+Data Engineering	ETL, Data Transformation, Data Validation, Data Modeling
+Cloud	AWS, Amazon S3, EC2, IAM
+Generative AI	LLMs, RAG, Prompt Engineering, Embeddings
+Agentic AI	AI Agents, Tool Calling, Workflow Automation
+Development Tools	Git, GitHub, Jupyter Notebook, Streamlit
+
+Frameworks and advanced AI technologies represent areas of focus; proficiency varies by tool.
+
+</details>
+
+⸻
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+
+03   Featured Projects
+
+<div align="center">
+<a href="https://github.com/basavarajasuti69/IPL-Sports-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basavarajasuti69&repo=IPL-Sports-Analytics&theme=tokyonight&hide_border=true" alt="IPL Sports Analytics repository"/>
+</a>
+<a href="https://github.com/basavarajasuti69/High-Clouds-Airlines">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basavarajasuti69&repo=High-Clouds-Airlines&theme=tokyonight&hide_border=true" alt="High Clouds Airlines repository"/>
+</a>
+<a href="https://github.com/basavarajasuti69/Hospitality_analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basavarajasuti69&repo=Hospitality_analysis&theme=tokyonight&hide_border=true" alt="Hospitality Analytics repository"/>
+</a>
+</div>
+
+🏏 IPL Sports Analytics
+
+Python Scikit-learn XGBoost K-Means Power BI
+
+Built a machine learning pipeline for IPL match prediction and player segmentation.
+
+* Developed Logistic Regression, Random Forest, and XGBoost models.
+* Achieved 81.86% accuracy with Random Forest in the reported evaluation.
+* Applied K-Means to segment more than 200 player profiles.
+* Created a four-page interactive Power BI dashboard.
+
+Explore Repository →
+
+✈️ High Clouds Airlines
+
+SQL MySQL Power BI Business Intelligence
+
+Analyzed airline operational data to understand carrier performance, load factors, route efficiency, and travel demand.
+
+* Analyzed 110,851 rows of airline data.
+* Wrote SQL queries using joins, CTEs, aggregations, and window functions.
+* Developed interactive dashboards for KPI analysis.
+
+Explore Repository →
+
+🏨 Hospitality Analytics
+
+SQL MySQL Tableau Data Modeling
+
+Built an analytical solution for exploring hotel booking and revenue trends.
+
+* Worked with more than 130,000 booking records.
+* Designed a MySQL star schema.
+* Created 11 SQL analysis queries and a reporting view.
+* Developed a Tableau dashboard for business insights.
+
+Explore Repository →
+
+🏭 Multi-Sensor Anomaly Detection
+
+Python Pandas Scikit-learn Isolation Forest ETL
+
+Developed an industrial sensor monitoring workflow involving data transformation and anomaly detection.
+
+* Built Python ETL workflows for sensor data.
+* Applied Isolation Forest to detect unusual sensor readings.
+* Explored condition monitoring and machine health analytics.
+
+⸻
+
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+
+04   Professional Journey
+
+🔹 Data Analyst Intern — AI Variant
+📍 Bengaluru, India · March 2026 – Present
+
+* Analyzing airline operational and hospitality datasets.
+* Developing SQL queries and Power BI/Tableau dashboards.
+* Exploring KPIs and translating analytical results into business insights.
+
+🔹 Data Analytics & AI Intern — Incanto Dynamics Pvt. Ltd. (Digital Maven)
+📍 Bengaluru, India · February 2026 – May 2026
+
+* Developed SQL queries and Python ETL workflows for sensor data.
+* Built Power BI dashboards with DAX-driven KPIs.
+* Contributed to reporting workflows with an estimated 40% reduction in manual reporting effort.
+
+⸻
+
+<!-- ═══════════════════ LEARNING ROADMAP ═══════════════════ -->
+
+05   Currently Building Toward AI Engineering
+
+<div align="center">
+
+🧠 Learning	🚀 Building
+Generative AI & LLMs	AI-powered applications
+RAG & vector search	Document question-answering systems
+Agentic AI	Tool-using AI agents
+Data Engineering	Reliable ETL pipelines
+Cloud & deployment	Deployable data and AI projects
 
 </div>
 
----
+My next milestones
 
-### ◈ About
+* Build a complete RAG application with document retrieval and citations.
+* Develop an AI agent that uses tools and APIs.
+* Deploy an AI application using FastAPI or Streamlit.
+* Build an end-to-end cloud data pipeline.
+* Explore MLOps, model evaluation, and deployment.
 
-Recent Electronics & Communication Engineering graduate who transitioned into data analytics, with 6+ months of internship experience and hands-on expertise in **SQL, Power BI, and Python**. NASSCOM FutureSkills Prime Certified Data Analyst with a strong foundation in Excel, Tableau, and Machine Learning — building ETL pipelines, dashboards, and predictive models that turn raw data into actionable business insights.
+⸻
 
-I currently work as a **Data Analyst Intern at AI Variant**, and previously completed a **Data Analytics & AI internship at Incanto Dynamics Pvt. Ltd. (Digital Maven)** in Bengaluru.
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 
-**Core Values:**
-- Clean, honest reporting over inflated metrics
-- SQL and fundamentals first, tools second
-- Ship a working dashboard, not just a notebook
-- Every project should answer a real business question
+06   Certifications
 
-**Open To:** Data Analyst · Business Intelligence Analyst · Data Engineer (entry-level) · Reporting Analyst · Analytics Associate
+* 🏅 NASSCOM FutureSkills Prime — Data Analyst
+* 🏅 Cisco — Data Analytics Essentials
+* 🏅 HackerRank — SQL certification
+* 🏅 Infosys Springboard — Python for Beginners
+* 🏅 ExcelR — Data Analytics training
 
-**Career Growth Path:** Data Analyst → Senior Data Analyst / Analytics Engineer → AI Engineer — building toward AI/ML systems work through hands-on analytics, SQL depth, and cloud-based data pipelines.
+Please verify that the displayed names match your certificates.
 
----
+⸻
 
-### ◈ Tech Stack
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-**Languages**
+07   GitHub Activity
 
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=basavarajasuti69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajasuti69&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basavarajasuti69&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
-**BI & Visualization**
+⸻
 
-![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
-**Databases & Cloud**
+08   My Contribution Journey
 
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<div align="center">
+<img src="https://raw.githubusercontent.com/basavarajasuti69/basavarajasuti69/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+</div>
 
-**Tooling & Workflow**
+⸻
 
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/ETL-8A63D2?style=flat-square)
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<div align="center">
 
-**Core Skills:** Data Cleaning · Statistical Analysis · Dashboarding · Problem Solving · Stakeholder Management
+Let’s Build Something Intelligent ✨
 
----
+Interested in AI, Generative AI, Machine Learning, Data Analytics, or Data Engineering? Let’s connect.
 
-### ◈ Skill Proficiency
+<br/>
+<a href="https://basavarajasuti.lovable.app">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-8A63D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/basavarajasuti">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:basavarajasuti0@gmail.com">
+<img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| SQL / MySQL | ████████░░ Advanced | Joins, CTEs, window functions, stored procedures, triggers |
-| Power BI | ████████░░ Advanced | DAX, Power Query, star schema modeling, KPI dashboards |
-| Python (Data Analysis) | ███████░░░ Proficient | Pandas, NumPy, ETL automation, data cleaning |
-| Tableau | ███████░░░ Proficient | Interactive dashboards, calculated fields |
-| Excel | ███████░░░ Proficient | Advanced formulas, pivot tables, reporting |
-| Machine Learning | ██████░░░░ Developing | Scikit-learn, XGBoost, K-Means — applied in project work |
+“From data insights to intelligent systems — learning, building, and improving every day.”
 
----
-
-### ◈ Featured Projects
-
-**⬡ [High Clouds Airlines](https://github.com/basavarajasuti69/High-Clouds-Airlines) — SQL, Power BI, MySQL Workbench** · *July 2026*
-Analyzed BTS T-100 domestic airline operational data (2008–2013, 110,851 rows) to evaluate load factor, route performance, and carrier efficiency. Built advanced SQL queries using joins, CTEs, aggregations, and window functions, backed by an interactive Power BI dashboard visualizing KPIs across carriers, airports, and time periods.
-
-**⬡ [IPL Sports Analytics](https://github.com/basavarajasuti69/IPL-Sports-Analytics) — Python, Scikit-learn, XGBoost, K-Means, Power BI** · *May 2026*
-Built predictive ML models (Logistic Regression, Random Forest, XGBoost) for IPL match prediction, with Random Forest as the top performer (81.86% accuracy) and XGBoost deployed for calibrated probabilities. Applied K-Means clustering to segment 200+ player profiles, backed by a four-page Power BI dashboard (Overview, Player, Venue, Head-to-Head).
-
-**⬡ [Hospitality Analytics](https://github.com/basavarajasuti69/Hospitality_analysis) — SQL, MySQL, Tableau**
-Built a MySQL star schema on a 130,000+ row hospitality dataset (134,590 bookings, 25 hotels), with 11 SQL analysis queries, a flattened reporting view, and a Tableau dashboard surfacing booking and revenue trends.
-
----
-
-### ◈ Experience
-
-**Data Analyst Intern — AI Variant**
-*Bengaluru, Karnataka (Hybrid) · March 2026 – Present*
-- Analyzed airline operational data for the High Clouds Airlines project — evaluating load factor, route performance, and carrier efficiency using SQL and Power BI
-- Analyzed a 130,000+ row hospitality dataset, building a MySQL star schema and Tableau dashboard to surface booking and revenue trends
-- Presented findings and actionable recommendations to stakeholders to support data-driven decision making
-
-**Data Analytics & AI Intern — Incanto Dynamics Pvt. Ltd. (Digital Maven)**
-*Bengaluru, Karnataka (Hybrid) · Feb 2026 – May 2026*
-- Built SQL queries and automated Python ETL workflows to clean, validate, and transform industrial sensor data
-- Designed interactive Power BI dashboards with KPI tracking, reducing manual reporting effort by ~40%
-- Collaborated with cross-functional engineering teams to translate business requirements into analytical solutions
-
-`Python` `SQL` `Power BI` `ETL` `Data Pipelines`
-
----
-
-### ◈ Certifications
-
-![](https://img.shields.io/badge/HackerRank-SQL_(Advanced)-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-![](https://img.shields.io/badge/NASSCOM-FutureSkills_Prime_(Gold)-8A63D2?style=flat-square)
-![](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Infosys_Springboard-Python_for_Beginners-0072B1?style=flat-square)
-![](https://img.shields.io/badge/ExcelR-Data_Analyst-333333?style=flat-square)
-
----
-
-### ◈ Current Focus
-
-```yaml
-learning:
-  - AWS fundamentals (S3, Lambda/Glue, RDS) for cloud-based data pipelines
-  - dbt + Airflow — orchestration for the AI job market portfolio project
-  - Advanced SQL patterns (window functions, query optimization) for interviews
-  - Microsoft PL-300 (Power BI Data Analyst) certification
-  - Google Data Analytics Professional Certificate
-
-developing:
-  - Deeper Python for ML — moving from applied Scikit-learn to model tuning & evaluation
-  - Data engineering fundamentals — ETL orchestration, pipeline design, star schemas at scale
-  - System-level thinking for AI Engineering — how models get deployed, not just trained
-
-building:
-  - Portfolio capstone: AI job market trends using Stack Overflow Developer Survey 2025 data,
-    architected on AWS (S3, Lambda/Glue, RDS, dbt, Airflow) with a Scikit-learn model
-    and a Streamlit/FastAPI app
-  - Portfolio polish across GitHub repos (READMEs, deployed dashboards)
-
-applying:
-  - Entry-level Data Analyst roles across Bengaluru, Hyderabad, Pune
-
-career_growth:
-  short_term: Land an entry-level Data Analyst / BI Analyst role
-  mid_term: Build depth in data engineering and cloud pipelines on the job
-  long_term: Transition into AI Engineering — model deployment, MLOps, applied ML systems
-
-open_to:
-  role_types:
-    - Data Analyst
-    - Business Intelligence Analyst
-    - Reporting Analyst
-    - Analytics Associate
-    - Data Engineer (entry-level)
-  location: Bengaluru (on-site/hybrid) | Open to Hyderabad, Pune
-  notice_period: Immediate
-```
-
----
-
-### ◈ GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=basavarajasuti69&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=basavarajasuti69&theme=tokyonight&hide_border=true)
-
----
-
-### ◈ Connect
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavarajasuti0@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basavarajasuti)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basavarajasuti69)
-
-*"Good data analysis isn't about the fanciest model — it's about answering the question that actually matters."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8A63D2,100:00C9FF&height=100&section=footer" width="100%" alt="Gradient footer"/>
+</div>
